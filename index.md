@@ -20,12 +20,13 @@ And KD is currently playing for Brooklyn Nets🔥 <br />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/420px-Brooklyn_Nets_newlogo.svg.png" width="300" height="300">
 
 ## 🐳 Summary of my memes 🐳
-1. My memes is about two of my favorite NBA players.
+1. My memes is about two of my favorite NBA players. 
 2. I found these pictures on internet, and I combine them together. <br />
 
 **Code**👇
 ```
 """
+Assignment 1
 Student ID: bxue488
 Student Name: Baichen Xue
 """
